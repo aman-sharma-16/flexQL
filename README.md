@@ -5,9 +5,7 @@
 ## 📋 Quick Links
 
 - **GitHub Repository:** [https://github.com/amansharma167/cpp_database](https://github.com/amansharma167/cpp_database)
-- **Design Document:** [DESIGN_DOCUMENT.md](DESIGN_DOCUMENT.md)
-- **Build & Execution:** [BUILD_AND_RUN.md](BUILD_AND_RUN.md)
-- **Performance Report:** [PERFORMANCE_REPORT.md](PERFORMANCE_REPORT.md)
+- **Design Document:** [DESIGN_DOCUMENT.md](DOCUMENTATION.md)
 - **Quick Reference:** [INDEX.md](INDEX.md)
 
 ---
