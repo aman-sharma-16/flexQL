@@ -4,7 +4,7 @@
 
 ## 📋 Quick Links
 
-- **GitHub Repository:**[ [https://github.com/amansharma167/cpp_database](https://github.com/amansharma167/cpp_database)](https://github.com/aman-sharma-16/flexQL)
+- **GitHub Repository:**[ [https://github.com/aman-sharma-16/flexQL](https://github.com/aman-sharma-16/flexQL)
 - **Design Document:** [DESIGN_DOCUMENT.md](DOCUMENTATION.md)
 - **Quick Reference:** [INDEX.md](INDEX.md)
 
